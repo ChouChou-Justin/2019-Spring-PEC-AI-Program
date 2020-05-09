@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pec-ai-240309",
+  "private_key_id": "46b59e9c67b843bf410f72414363a6bf28f67ae9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCTY39t/lt+wt+/\n5/qcASNEbXZTUgmkrWm51B1aumyNLn9dHQxZkaxGy+uldXAK6iGE1pGx7u9iUdGw\n1KrJoNFsRFHQfI8B1uXdaO+oTga4rN1YhdP0vW7CL9EZlEs8InzFxrT+kjp0Llxc\nD6hoj/AYNiRkDd4yA6JvxZhpJTkMOG8tsVNKN2CsgdcXJQjxYiz4Lj5Yd+03Q7XO\n14rADQNh6nY9X6ssMIpYrzYQ/evEEBZiEH8zmE9jNPXBFWyDtjvBkZQhrTszwuuF\nXgCW7jkoJOWVD3JAbNimdI59FDWChsPFZkYrd6w2LMaRbIr4hCpL0aTszu8AWnhx\nrAWo+QVtAgMBAAECggEAAkk6SkH2OFacctUNyYqo+eA6xBsTJDc+WxADrosSsPPm\nLNMNBHyib+ysyIG0Ta8I+w767ogWtW8wce4ygfMZHHVI0ZOFAlHLee4tPW6MYyPn\nQP6+ZV7kz2U/eIaYziN4zPaCiypIdtHbQ+BIS+rjnfSFBvpCFoOA6vvlG8hkhKB7\nblqvCO2cszfsFwl41ArRcfyCclaW94OAe3KE+glC5A2/VAvmDBZ/lOxad5v4/rZg\nynCuZdGSvE/z6krLz3X5YAA0fzVU3MpEe/27edfDZ6Hl8l8mbsM41vWRqsxA/3TN\nRHnWXfGXcqGVSXpgV/Pcp6OzV9Rn1iWnmtgzechgUQKBgQDDizTBgtF0hy8y156c\n+ukmF7A12BXxjGDTlYwoC27AlVcgyKPb1Of2HYO5GeBWPqddAwU8UkLAdYB/7XnJ\nSEul6+4cDNzd769/89+SSbdbxWDwjLE8+6sFhgZKeQvfaTKX8jWJ+HO1MsKfjQmL\n9tGu8v7oZYlEdQ7BTsmpr4JD6QKBgQDA9O/Q9rU4n5ADlOKBPXS/p3X9teP75LFF\ndp5C9Yi/IYnLHouvG7X2eGJq98KkVVa3Zvvwhu3pHiM27f+YFhJa6MIx1qbKyaWL\n/buC7xcR6/HF3qnPi5zHHlAjb3bSVNCGq8ATA84Y9MzFKP0rgBJIGKOlWeCieMmS\n/yvRNlJW5QKBgA30cEZjFJmRUC/7rUkcqujaBexByIcdcoeHA6KT9kpuHfKr/u2g\nSxGIV68tBpKBFCaSIZyFblgXypzWkLtpmmRz6uE7lcOM6GRkPg9NjXVSJ7HjCH8G\notTZFLfZ3ZwLAN5RHbsD7RYAUl1ajlTbv2kR1Fk3bc1h4TSwb7nZWZ2JAoGAA/sJ\nl33/bxObnPdNVO03o1yJCpreASxOm+g+i5MVJxxCA3a12v7vWg5RuXMzCMDZ8R6m\nw+eEsPJ2N4PhafnKlyWGHBEZj8VpLOInJCRajXwYmMRnLGjs6w6tCI4cHWqygpS4\neavybIFgWBDoaCVUOziG57pa7/8d6XJqLP655CECgYAC6eIvnImGwW5nAdTVja6X\n8Wo+kr1PLC7WqVHVWlZdHMbt0pUSLSsr1wbIOF4aYSLtGCFsF8pjwf3Fc+cd5XRW\nYiXbxzKKVoCJOkwOPNyWBzJAHBeMeZMFwIgg0cpPnVgfZwDg7zgGl+a0UShDitfx\n2X4jUhuCpB9H9DlnABH9lw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pec-ai-project@pec-ai-240309.iam.gserviceaccount.com",
+  "client_id": "118327132938577198576",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pec-ai-project%40pec-ai-240309.iam.gserviceaccount.com"
+}
